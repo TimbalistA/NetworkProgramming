@@ -8,5 +8,5 @@ Here are some of the commands I used:
 
 * git init
 * git add . 
--git commit -m 
--git push -u origin master
+* git commit -m 
+* git push -u origin master
