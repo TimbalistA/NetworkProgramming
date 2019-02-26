@@ -17,7 +17,9 @@ I choosed to extend the Thread class, here you can find my code:
 
 ![image](https://user-images.githubusercontent.com/36602388/53435056-996d5100-3a00-11e9-81a1-818e3e40a612.png)
 
-My variant is 10(I don't have access to moodle, in order to put a screenshot of my variant):
+My variant is 10:
+
+![image](https://user-images.githubusercontent.com/36602388/53436239-71332180-3a03-11e9-9008-3600d766952d.png)
 
 ![image](https://user-images.githubusercontent.com/36602388/53435656-f6b5d200-3a01-11e9-8a24-9dd196f86d77.png)
 
