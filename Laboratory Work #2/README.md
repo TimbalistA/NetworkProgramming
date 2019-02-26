@@ -13,13 +13,13 @@ Implementation:
 
 I choosed to extend the Thread class, here you can find my code:
 
-![image](https://user-images.githubusercontent.com/36602388/53435026-83f82700-3a00-11e9-9667-5ff44f03bc21.png)
+![image](https://user-images.githubusercontent.com/36602388/53435702-10571980-3a02-11e9-9f49-4ad072952239.png)
 
 ![image](https://user-images.githubusercontent.com/36602388/53435056-996d5100-3a00-11e9-81a1-818e3e40a612.png)
 
 My variant is 10(I don't have access to moodle, in order to put a screenshot of my variant):
 
-![image](https://user-images.githubusercontent.com/36602388/53433856-f1ef1f00-39fd-11e9-97cd-618b08a4985d.png)
+![image](https://user-images.githubusercontent.com/36602388/53435656-f6b5d200-3a01-11e9-8a24-9dd196f86d77.png)
 
 Here is the result:
 
