@@ -11,10 +11,10 @@ Threads can be created by using two mechanisms :
 
 Implementation:
 
-I choosed to extend the Thread class:
+I choosed to extend the Thread class, here you can find my code:
 
-![image](https://user-images.githubusercontent.com/36602388/53433786-c2401700-39fd-11e9-9315-7448a63198f9.png)
+![image](https://user-images.githubusercontent.com/36602388/53435026-83f82700-3a00-11e9-9667-5ff44f03bc21.png)
 
-![image](https://user-images.githubusercontent.com/36602388/53433825-dc79f500-39fd-11e9-8e78-1478e1aea2e3.png)
+![image](https://user-images.githubusercontent.com/36602388/53435056-996d5100-3a00-11e9-81a1-818e3e40a612.png)
 
 ![image](https://user-images.githubusercontent.com/36602388/53433856-f1ef1f00-39fd-11e9-97cd-618b08a4985d.png)
