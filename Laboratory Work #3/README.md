@@ -1,1 +1,13 @@
+Laboratory Work #3
+--
+Task
+--
+Implement an HTTPclient that would use the main HTTP methods. Use the www.httpbin.org as a server.
 
+HTTP
+--
+HTTP functions as a request–response protocol in the client–server computing model. A web browser, for example, may be the client and an application running on a computer hosting a website may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
+
+Implementation
+--
+In this Laboratoy Work, I implemented : GET, POST, PUT Methods.
