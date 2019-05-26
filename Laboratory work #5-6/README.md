@@ -9,6 +9,7 @@ TCP
 The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP. Applications that do not require reliable data stream service may use the User Datagram Protocol (UDP), which provides a connectionless datagram service that emphasizes reduced latency over reliability.
 
 Implementation:
+```java
 public class Client{
     public static void main(String[] args) throws SocketException, IOException {
         //input from user
@@ -44,7 +45,7 @@ public class Client{
         clientSocket.close();
     }
 }
-
+```
 UDP
 --
 
@@ -57,7 +58,7 @@ UDP is quite different from the more common TCP. But before considering the surf
 Apart from speed, we also need to remember that some kinds of communication do not require the reliability of TCP but value low latency instead. The video is a good example of an application that might benefit from running over UDP instead of TCP.
 
 Implementation:
-
+```java
 public class Server{
     public static void main(String[] args) throws SocketException, IOException {
         //here is created datagram socket and binds it with the available Port Number on the localhost machine.
@@ -98,6 +99,7 @@ public class Server{
         serverSocket.close();
     }
 }
+```
 Java DatagramSocket and DatagramPacket
 --
 Java DatagramSocket and DatagramPacket classes are used for connection-less socket programming.
